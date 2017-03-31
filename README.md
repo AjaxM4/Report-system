@@ -14,14 +14,14 @@ Feature:
 Commands: 
 
 + /report [ID] [Reason] (Normal Players)
-- USAGE: Reports a player
+ USAGE: Reports a player
 
 + /reports (RCON Logged in admins)
-- USAGE: View all the available reports
+ USAGE: View all the available reports
 
 + /delrep [report id] (RCON Logged in admins)
-- USAGE: Deletes a report with specific Report IDs
+ USAGE: Deletes a report with specific Report IDs
 NOTE: The report IDs are shown in /reports
 
 + /delallrep (RCON Logged in admins) 
-- USAGE: Deletes all available reports
+ USAGE: Deletes all available reports
